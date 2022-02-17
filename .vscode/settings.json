@@ -1,0 +1,16 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.cpp": "cpp",
+        "stdlib.h": "c",
+        "audio_pwm.h": "c",
+        "pwm.h": "c",
+        "mymusic.h": "c",
+        "intctrl.h": "c",
+        "sync.h": "c",
+        "audio_samples.h": "c",
+        "stdbool.h": "c",
+        "dma.h": "c",
+        "dma_management.h": "c"
+    }
+}
